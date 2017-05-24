@@ -1,4 +1,3 @@
-# papers-I-read
 Summaries of papers on Machine Learning and Deep Learning. <br/>
 
 * <b>Visualization</b>
