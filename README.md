@@ -13,4 +13,4 @@ Summaries of papers on Machine Learning and Deep Learning. <br/>
 * Gradient Descent Optimizations [[Blog](https://ndeepesh.github.io/post/gradientdescentoptimizations/)]
 
 * <b>Online courses</b>
- * Bayesian Methods for Machine Learning [[Link](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)]
+   * Bayesian Methods for Machine Learning [[Link](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)]
