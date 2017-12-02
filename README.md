@@ -11,3 +11,6 @@ Summaries of papers on Machine Learning and Deep Learning. <br/>
   * Going Deeper With Convolutions [[Google Net Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)] [[Adit Despande's Summary](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)]
   * Deep Residual Networks: Deep Learning Gets Way Deeper [[ResNet Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)] [[Adit Deshpande's Summary](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)] [[My Notes](https://github.com/ndeepesh/papers-I-read/blob/master/summaries/res-net.md)]
 * Gradient Descent Optimizations [[Blog](https://ndeepesh.github.io/post/gradientdescentoptimizations/)]
+
+* <b>Online courses</b>
+ * Bayesian Methods for Machine Learning [[Link](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)]
