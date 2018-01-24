@@ -1,0 +1,8 @@
+Surprising behaviour of distance metrics in high dimensional space
+
+TODO: Go through the math described throuroughly.
+1. Key takeaway in this paper is that, for high dimensional datasets choice of distance metric becomes very crucial.
+2. As the number of dimensions increase, we lose the idea of proximity.
+3. So higher the norm, bad would be the results. Thus L1 norm is better suited as distance metric in high dimensions.
+4. Paper goes a step forward and introduces fractional norms (technically they are not norms since they cannot be interpreted as distance metrics)
+5. They show that these fractional norms help achieve better results in tasks like k-means which is highly dependent on distance between points interpretation
