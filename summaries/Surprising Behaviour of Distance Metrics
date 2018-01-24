@@ -1,4 +1,5 @@
-Surprising behaviour of distance metrics in high dimensional space
+Surprising behaviour of distance metrics in high dimensional space.
+Here is the paper - https://bib.dbvis.de/uploadedFiles/155.pdf
 
 TODO: Go through the math described throuroughly.
 1. Key takeaway in this paper is that, for high dimensional datasets choice of distance metric becomes very crucial.
